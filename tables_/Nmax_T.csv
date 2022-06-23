@@ -1,0 +1,109 @@
+THK;NOV;MINOSITES;NMAX
+1;õszi búza;gyenge;190
+1;õszi búza;közepes;170
+1;õszi búza;jó;130
+2;õszi búza;gyenge;170
+2;õszi búza;közepes;155
+2;õszi búza;jó;125
+3;õszi búza;gyenge;170
+3;õszi búza;közepes;155
+3;õszi búza;jó;135
+4;õszi búza;gyenge;130
+4;õszi búza;közepes;120
+4;õszi búza;jó;110
+1;õszi árpa;gyenge;160
+1;õszi árpa;közepes;140
+1;õszi árpa;jó;100
+2;õszi árpa;gyenge;150
+2;õszi árpa;közepes;125
+2;õszi árpa;jó;90
+3;õszi árpa;gyenge;135
+3;õszi árpa;közepes;110
+3;õszi árpa;jó;90
+4;õszi árpa;gyenge;110
+4;õszi árpa;közepes;100
+4;õszi árpa;jó;80
+1;tavaszi árpa;gyenge;110
+1;tavaszi árpa;közepes;90
+1;tavaszi árpa;jó;80
+2;tavaszi árpa;gyenge;110
+2;tavaszi árpa;közepes;90
+2;tavaszi árpa;jó;80
+3;tavaszi árpa;gyenge;100
+3;tavaszi árpa;közepes;80
+3;tavaszi árpa;jó;70
+4;tavaszi árpa;gyenge;-
+4;tavaszi árpa;közepes;-
+4;tavaszi árpa;jó;-
+1;rozs;gyenge;-
+1;rozs;közepes;-
+1;rozs;jó;-
+2;rozs;gyenge;-
+2;rozs;közepes;-
+2;rozs;jó;-
+3;rozs;gyenge;-
+3;rozs;közepes;-
+3;rozs;jó;-
+4;rozs;gyenge;100
+4;rozs;közepes;90
+4;rozs;jó;80
+1;kukorica;gyenge;190
+1;kukorica;közepes;170
+1;kukorica;jó;150
+2;kukorica;gyenge;190
+2;kukorica;közepes;160
+2;kukorica;jó;150
+3;kukorica;gyenge;180
+3;kukorica;közepes;160
+3;kukorica;jó;140
+4;kukorica;gyenge;150
+4;kukorica;közepes;130
+4;kukorica;jó;120
+1;napraforgó;gyenge;110
+1;napraforgó;közepes;100
+1;napraforgó;jó;80
+2;napraforgó;gyenge;100
+2;napraforgó;közepes;85
+2;napraforgó;jó;70
+3;napraforgó;gyenge;90
+3;napraforgó;közepes;75
+3;napraforgó;jó;50
+4;napraforgó;gyenge;75
+4;napraforgó;közepes;70
+4;napraforgó;jó;60
+1;repce;gyenge;180
+1;repce;közepes;160
+1;repce;jó;140
+2;repce;gyenge;170
+2;repce;közepes;150
+2;repce;jó;120
+3;repce;gyenge;140
+3;repce;közepes;120
+3;repce;jó;100
+4;repce;gyenge;-
+4;repce;közepes;-
+4;repce;jó;-
+1;szója;gyenge;110
+1;szója;közepes;100
+1;szója;jó;80
+2;szója;gyenge;100
+2;szója;közepes;90
+2;szója;jó;75
+3;szója;gyenge;100
+3;szója;közepes;90
+3;szója;jó;80
+4;szója;gyenge;-
+4;szója;közepes;-
+4;szója;jó;-
+1;lucerna;gyenge;120
+1;lucerna;közepes;100
+1;lucerna;jó;70
+2;lucerna;gyenge;100
+2;lucerna;közepes;85
+2;lucerna;jó;70
+3;lucerna;gyenge;80
+3;lucerna;közepes;70
+3;lucerna;jó;60
+4;lucerna;gyenge;80
+4;lucerna;közepes;60
+4;lucerna;jó;50
