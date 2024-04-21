@@ -4,7 +4,7 @@ This is a Python (Pandas) based nutrition management software (demo version) for
 
 ## Fontos tudnivalók:
 <br/>
- * <br/> ... <br/>
+MÉM-NAK módszeren alapuló talajtani szaktanácsadó alkalmazás. <br/> ... <br/>
 
 ## Futtatás
 
